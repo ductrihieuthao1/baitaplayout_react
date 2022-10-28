@@ -1,0 +1,9 @@
+.body{
+    padding: 3rem;
+}
+
+.body .container{
+    max-width: 1140px;
+    margin: auto;
+}
+

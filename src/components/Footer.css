@@ -1,0 +1,15 @@
+.footer{
+    background: #212529;
+    
+}
+.footer .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1140px;
+    margin: auto;
+    height: 100px;
+}
+.footer .container p{
+    color: #fff;
+}
